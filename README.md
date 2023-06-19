@@ -30,9 +30,9 @@
 ## About Me
 I am a computer aficionado from the United States
 
-- :student: I'm a full-time student .
+- :student: I'm a full-time student.
 
-- :desktop_computer: Interested in all things technology.
+- :desktop_computer: Interested in all things tech.
 
 - :beach_umbrella: During leisure periods, I work on passion projects.
 
@@ -57,7 +57,7 @@ If you're interested in anything more professional, click on my [website](https:
 </div>
 <br>
 
-I'm most comfortable in Python... And proficiency in each language/tool may change any given time.
+I'm most comfortable in Java and Python... And proficiency in each language/tool may change at any given time.
 
 ## Fun Facts
 
