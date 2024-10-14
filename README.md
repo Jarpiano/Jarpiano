@@ -21,24 +21,18 @@
 <h3 align="center"> Welcome! :wave: </h3>
 <hr>
 
-<div id="banner" align="center">
-  <br>
-  <img src="https://media.giphy.com/media/IuVFGSQZTd6TK/giphy.gif" alt="Gif Banner">
-  <p>I'm Jarpiano: HS student, coding hobbyist, and cybersecurity nut</p>
-</div>
-
 ## About Me
-I am a computer aficionado from the United States
+I am a CS university student based in the US.
 
 - :student: I'm a full-time student.
 
-- :desktop_computer: Interested in all things tech.
+- :desktop_computer: Loves cybersecurity and programming.
 
-- :beach_umbrella: During leisure periods, I work on passion projects.
+- :beach_umbrella: Plays guitar, listens to music, and working on passion projects.
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="20" /> Currently, I'm immersed inside of [Godot's Docs](https://docs.godotengine.org/en/stable/index.html).
 
-If you're interested in anything more professional, click on my [website](https://jarpiano.github.io/).
+If you're interested in anything professional, click on my [website](https://jarpiano.github.io/).
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jarpiano&theme=tokyonight)](https://git.io/streak-stats)
@@ -61,9 +55,9 @@ I'm most comfortable in Java and Python... And proficiency in each language/tool
 
 ## Fun Facts
 
-- :mount_fuji: Avid anime watcher
-- :coffee: Prefers coffee black, nothing added.
-- :european_castle: Likes fantasy and sci-fi books
+- :mount_fuji: Plays guitar.
+- :coffee: Prefers coffee black, nothing added. French vanilla is nice though.
+- :european_castle: Enjoys sitting by turtle pond (UT Austin).
 
 <br>
 <hr>
