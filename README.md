@@ -22,17 +22,15 @@
 <hr>
 
 ## About Me
-I am a CS university student based in the US.
+I am a Computer Science major based at the University of Texas at Austin.
 
-- :student: I'm a full-time student.
+- :student: Full-time student & part-time tutor.
 
-- :desktop_computer: Loves cybersecurity and programming.
+- :desktop_computer: Versed in Cybersecurity, SWE, and IT.
 
-- :beach_umbrella: Plays guitar, listens to music, and working on passion projects.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" /> Studying Computer Architecture. No projects scheduled as of now.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="20" /> Currently, I'm immersed inside of [Godot's Docs](https://docs.godotengine.org/en/stable/index.html).
-
-If you're interested in anything professional, click on my [website](https://jarpiano.github.io/).
+My portfolio is available via my [website](https://jarpiano.github.io/).
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jarpiano&theme=tokyonight)](https://git.io/streak-stats)
@@ -48,34 +46,13 @@ If you're interested in anything professional, click on my [website](https://jar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50/>
 </div>
 <br>
 
-I'm most comfortable in Java and Python... And proficiency in each language/tool may change at any given time.
-
-## Fun Facts
-
-- :mount_fuji: Plays guitar.
-- :coffee: Prefers coffee black, nothing added. French vanilla is nice though.
-- :european_castle: Enjoys sitting by turtle pond (UT Austin).
+Proficient in Java and skills transferrable to any OOP/Functional language.
 
 <br>
 <hr>
 
 ### Thanks For Visiting!
-
-
-<!--
-**Jarpiano/Jarpiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
