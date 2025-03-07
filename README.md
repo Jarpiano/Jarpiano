@@ -32,9 +32,6 @@ I am a Computer Science major based at the University of Texas at Austin.
 
 My portfolio is available via my [website](https://jarpiano.github.io/).
 
-## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jarpiano&theme=tokyonight)](https://git.io/streak-stats)
-
 ## Knowledge
 <div id="lang-icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
@@ -46,13 +43,7 @@ My portfolio is available via my [website](https://jarpiano.github.io/).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/>
 </div>
 <br>
-
-Proficient in Java and skills transferrable to any OOP/Functional language.
-
-<br>
 <hr>
-
-### Thanks For Visiting!
