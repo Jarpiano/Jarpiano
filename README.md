@@ -32,7 +32,7 @@ I am a Computer Science major based at the University of Texas at Austin.
 
 My portfolio is available via my [website](https://jarpiano.github.io/).
 
-## Knowledge
+## Tools
 <div id="lang-icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
