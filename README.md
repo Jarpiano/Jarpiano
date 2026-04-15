@@ -24,11 +24,11 @@
 ## About Me
 I am a student at the University of Texas at Austin majoring in Computer Science.
 
-- :student: Full-time student & part-time tutor.
+- :student: Undergraduate Student, Security Analyst, Software Engineer
 
-- :desktop_computer: Versed in Cybersecurity, SWE, and IT.
+- :desktop_computer: Versed in Security and SWE
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" /> Studying Operating Systems. No projects scheduled as of now.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" /> WOrking on Security-focused artificial intelligence
 
 My portfolio is available via my [website](https://jarpiano.github.io/).
 
