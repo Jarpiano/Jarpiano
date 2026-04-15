@@ -28,7 +28,7 @@ I am a student at the University of Texas at Austin majoring in Computer Science
 
 - :desktop_computer: Versed in Security and SWE
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" /> WOrking on Security-focused artificial intelligence
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="20" /> Working on Security-focused artificial intelligence
 
 My portfolio is available via my [website](https://jarpiano.github.io/).
 
